@@ -1,0 +1,43 @@
+<keymap version="1" name="IntelliJ IDEA Classic (OS X) copy" parent="Mac OS X">
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="EditorUnSelectWord" />
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift meta f" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
+    <keyboard-shortcut first-keystroke="alt v" second-keystroke="s" />
+  </action>
+  <action id="com.jetbrains.plugins.vagrant.actions.VagrantHaltAction">
+    <keyboard-shortcut first-keystroke="alt v" second-keystroke="h" />
+  </action>
+  <action id="com.jetbrains.plugins.vagrant.actions.VagrantReloadAction">
+    <keyboard-shortcut first-keystroke="alt v" second-keystroke="r" />
+  </action>
+  <action id="com.jetbrains.plugins.vagrant.actions.VagrantUpAction">
+    <keyboard-shortcut first-keystroke="alt v" second-keystroke="u" />
+  </action>
+</keymap>
