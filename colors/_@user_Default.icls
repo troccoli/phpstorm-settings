@@ -3,12 +3,11 @@
     <property name="created">2019-04-30T09:49:43</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-05-28T10:35:59</property>
+    <property name="modified">2019-05-29T12:02:28</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <colors>
     <option name="FILESTATUS_ADDED" value="22863a" />
-    <option name="FILESTATUS_COPIED" value="50a14e" />
     <option name="FILESTATUS_DELETED" value="6a737d" />
     <option name="FILESTATUS_HIJACKED" value="6a737d" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6a737d" />
@@ -21,7 +20,6 @@
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="5cc5" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="5cc5" />
     <option name="FILESTATUS_OBSOLETE" value="6a737d" />
-    <option name="FILESTATUS_RENAMED" value="7c7c" />
     <option name="FILESTATUS_SWITCHED" value="e36209" />
     <option name="FILESTATUS_UNKNOWN" value="e36209" />
     <option name="FILESTATUS_addedOutside" value="22863a" />
