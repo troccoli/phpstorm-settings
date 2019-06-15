@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="csv" type="Cvs file" />
       <mapping pattern="ignore" type="Git exclude file" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="upload_fixtures_status_11" type="PLAIN_TEXT" />
@@ -11,7 +10,6 @@
       <mapping ext="travis" type="PLAIN_TEXT" />
       <mapping ext="d" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
-      <removed_mapping ext="csv" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
