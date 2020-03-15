@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="2020-02-06-gitlab-environment-status" type="Markdown" />
+      <mapping ext="mp4" type="Native" />
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
       <mapping pattern=".env.travis" type="PLAIN_TEXT" />
       <mapping pattern="upload_fixtures_status_9" type="PLAIN_TEXT" />
