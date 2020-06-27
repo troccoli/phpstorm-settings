@@ -1,0 +1,7 @@
+<templateSet group="PHP">
+  <template name="test" value="/**&#10; * @test&#10; */&#10;public function it_()&#10;{&#10;    $this-&gt;markTestIncomplete();&#10;}" description="Add a test function" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+</templateSet>

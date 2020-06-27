@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Gulp" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="CURRENT_VAGRANT" CONNECTION_ID="vagrant:/Users/Giulio.Troccoli/lva">
+    <exec>
+      <option name="COMMAND" value="/vagrant/node_modules/gulp/bin/gulp.js" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="/vagrant" />
+    </exec>
+  </tool>
+</toolSet>
