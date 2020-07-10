@@ -1,5 +1,6 @@
 <templateSet group="PHP">
-  <template name="test" value="public function test(): void&#10;{&#10;    $this-&gt;markTestIncomplete();&#10;}" description="Add a test function" toReformat="false" toShortenFQNames="true">
+  <template name="test" value="public function test$NAME$(): void&#10;{&#10;    $this-&gt;markTestIncomplete();&#10;}" description="Add a test function" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP Class Member" value="true" />
     </context>
