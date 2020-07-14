@@ -1,0 +1,5 @@
+<application>
+  <component name="PathMacrosImpl">
+    <ignoredMacro name="a-" />
+  </component>
+</application>
