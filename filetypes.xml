@@ -3,15 +3,15 @@
     <extensionMap>
       <mapping pattern="2020-02-06-gitlab-environment-status" type="Markdown" />
       <mapping ext="mp4" type="Native" />
-      <mapping pattern="cypress" type="PLAIN_TEXT" />
+      <mapping pattern="true" type="PLAIN_TEXT" />
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
       <mapping pattern=".env.travis" type="PLAIN_TEXT" />
       <mapping pattern="upload_fixtures_status_9" type="PLAIN_TEXT" />
-      <mapping pattern="true" type="PLAIN_TEXT" />
       <mapping pattern="upload_fixtures_status_11" type="PLAIN_TEXT" />
+      <mapping pattern="cypress" type="PLAIN_TEXT" />
+      <mapping ext="d" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="travis" type="PLAIN_TEXT" />
-      <mapping ext="d" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="cypress_ci" type="Shell Script" />
