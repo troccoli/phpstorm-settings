@@ -15,6 +15,7 @@
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="cypress_ci" type="Shell Script" />
+      <mapping pattern="cy" type="Shell Script" />
       <mapping pattern="*.xml.dist" type="XML" />
       <removed_mapping pattern="phpunit.xml.dist" approved="true" type="XML" />
       <mapping pattern="*.yml.dist" type="YAML" />
