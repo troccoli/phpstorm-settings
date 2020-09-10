@@ -5,6 +5,7 @@
       <mapping ext="mp4" type="Native" />
       <mapping pattern="true" type="PLAIN_TEXT" />
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
+      <mapping pattern=".gitlab-ci.yml.safe" type="PLAIN_TEXT" />
       <mapping pattern=".env.travis" type="PLAIN_TEXT" />
       <mapping pattern="upload_fixtures_status_9" type="PLAIN_TEXT" />
       <mapping pattern="upload_fixtures_status_11" type="PLAIN_TEXT" />
