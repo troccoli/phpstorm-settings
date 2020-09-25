@@ -1,7 +1,6 @@
 <application>
   <component name="GeneralSettings">
     <option name="confirmExit" value="false" />
-    <option name="searchInBackground" value="true" />
     <option name="showTipsOnStartup" value="false" />
   </component>
   <component name="Registry">
@@ -13,8 +12,6 @@
     <option name="widgets">
       <map>
         <entry key="InspectionProfile" value="false" />
-        <entry key="JSONSchemaSelector" value="false" />
-        <entry key="ReadOnlyAttribute" value="false" />
         <entry key="com.intellij.psi.codeStyle.statusbar.CodeStyleStatusBarWidget" value="false" />
       </map>
     </option>
