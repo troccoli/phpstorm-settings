@@ -1,0 +1,14 @@
+<application>
+  <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="mysql.8">
+      <artifact />
+      <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.0.25" />
+      <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.0.21" />
+    </driver>
+    <driver id="sqlite.xerial">
+      <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.34.0" />
+    </driver>
+    <driver id="java.sql.Driver" name="User Driver" driver-class="java.sql.Driver" />
+    <driver id="094cd09e-3fcb-4d62-9fdb-5481eab01c0c" name="User Driver [2]" driver-class="java.sql.Driver" />
+  </component>
+</application>
