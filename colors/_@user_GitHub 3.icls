@@ -4,7 +4,7 @@
     <property name="created">2021-07-04T17:17:00</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.1.4.0.0</property>
-    <property name="modified">2021-10-20T07:45:57</property>
+    <property name="modified">2021-10-21T18:32:47</property>
     <property name="originalScheme">GitHub 3</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -16,8 +16,6 @@
     <option name="EDITOR_FONT_NAME" value="PT Mono" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
-  <option name="CONSOLE_FONT_NAME" value="SF Mono" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
   <colors>
     <option name="CARET_ROW_COLOR" value="fffbdd" />
     <option name="GUTTER_BACKGROUND" value="ffffff" />
