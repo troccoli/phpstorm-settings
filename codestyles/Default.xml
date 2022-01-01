@@ -65,7 +65,6 @@
     <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
     <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
-    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
     <option name="CALL_PARAMETERS_WRAP" value="5" />
