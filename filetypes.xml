@@ -8,6 +8,7 @@
       <mapping ext="d" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="travis" type="PLAIN_TEXT" />
+      <mapping ext="safe" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="ignore" type="Git exclude file" />
     </extensionMap>
