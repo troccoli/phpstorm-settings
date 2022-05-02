@@ -1,9 +1,0 @@
-<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
-  <action id="CloseAllEditors">
-    <keyboard-shortcut first-keystroke="shift meta w" />
-  </action>
-  <action id="ReformatCode" />
-  <action id="ShowReformatFileDialog">
-    <keyboard-shortcut first-keystroke="meta alt l" />
-  </action>
-</keymap>
