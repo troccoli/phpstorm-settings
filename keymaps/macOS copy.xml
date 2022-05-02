@@ -2,4 +2,8 @@
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
+  <action id="ReformatCode" />
+  <action id="ShowReformatFileDialog">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+  </action>
 </keymap>
